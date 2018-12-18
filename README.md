@@ -1,1 +1,2 @@
-# project01
+# Project-1
+Movie Ratings Game!
